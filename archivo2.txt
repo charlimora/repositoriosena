@@ -1,0 +1,5 @@
+Estoy en la primera línea del archivo 2
+
+Estoy haciendo modificaciones en el archivo 2
+
+se han agregado nuevas líneas
